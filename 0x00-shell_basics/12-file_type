@@ -1,2 +1,2 @@
 #!/bin/bash
-less /tm/iamafile
+man /tm/iamafile
