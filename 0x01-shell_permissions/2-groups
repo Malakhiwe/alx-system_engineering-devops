@@ -1,2 +1,2 @@
 #!/bin/bash
-groups - print
+groups - print root
