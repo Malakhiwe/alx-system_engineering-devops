@@ -1,2 +1,2 @@
 #!/bin/bash
-ls usr/bin/* | /action
+ls $PATH/* | /action
